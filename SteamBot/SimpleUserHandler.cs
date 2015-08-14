@@ -13,6 +13,7 @@ namespace SteamBot
 
         public override bool OnGroupAdd()
         {
+            //test change
             return false;
         }
 
